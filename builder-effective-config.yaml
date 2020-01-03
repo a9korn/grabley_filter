@@ -1,4 +1,8 @@
 directories:
   output: dist
   buildResources: build
+publish:
+  - provider: github
+    owner: a9korn
+    repo: grabley-asin-filter
 electronVersion: 7.1.6

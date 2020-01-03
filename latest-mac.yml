@@ -1,12 +1,12 @@
-version: 0.0.1
+version: 0.0.2
 files:
-  - url: Grabley-ASIN-Filter-0.0.1-mac.zip
-    sha512: JkbVRFUb6K4MpPT4BUhN1xPr6aprLYuZHMP8ZoAk2RGW69hnOIeNGP/3+r2IjvvghueEGArB2zYVzsH+6e/FGg==
-    size: 71835149
-    blockMapSize: 76379
-  - url: Grabley-ASIN-Filter-0.0.1.dmg
-    sha512: /ifvzk+oLyT9A+SsKtp9iKyGAYAttGvccPJnT6OjluBvQ0FjN3xzF2DQhJH7C90kVu6h3MwRzRa6xnN5CeGnDQ==
-    size: 74089588
-path: Grabley-ASIN-Filter-0.0.1-mac.zip
-sha512: JkbVRFUb6K4MpPT4BUhN1xPr6aprLYuZHMP8ZoAk2RGW69hnOIeNGP/3+r2IjvvghueEGArB2zYVzsH+6e/FGg==
-releaseDate: '2020-01-03T12:59:44.541Z'
+  - url: Grabley-ASIN-Filter-0.0.2-mac.zip
+    sha512: cIbDNI8CynG+pWZHRzHU0QWYQa0LWajoCNQDQlvhrm3Ldm0UQ8uJpEZEh4lYe0zU60ohBKt2I2rJ7CmFC5Zdyg==
+    size: 73632721
+    blockMapSize: 78392
+  - url: Grabley-ASIN-Filter-0.0.2.dmg
+    sha512: DujBjh6Lba6rHtkZ7A1LqmHzgBzWMxvWphgW+oqjYLUkdEhfwDeitU0Eiy3IF4BQ4of1WoaYLqRIbCV63snBjQ==
+    size: 75886127
+path: Grabley-ASIN-Filter-0.0.2-mac.zip
+sha512: cIbDNI8CynG+pWZHRzHU0QWYQa0LWajoCNQDQlvhrm3Ldm0UQ8uJpEZEh4lYe0zU60ohBKt2I2rJ7CmFC5Zdyg==
+releaseDate: '2020-01-03T18:46:59.733Z'
